@@ -13,6 +13,9 @@ export const minikitConfig = {
     "payload": "eyJkb21haW4iOiJ3aGF0aGF2ZXlvdWRvbmUudmVyY2VsLmFwcCJ9",
     "signature": "KhOpmFI5vMx9GdFM+ler58WHNZ7ZposxHUYgEcBRHs1oRT+4vbKfzzDIU1Rn5p8aPIhVXk9gUd/1OrF6112QfRw="
   },
+  baseBuilder:{
+    "ownerAddress": "0xBc402e0B7A7fc5082a3716095935B676cA21B3AB"
+  },
   miniapp: {
     version: "1",
     name: "What Have You Done", 
