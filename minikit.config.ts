@@ -29,11 +29,11 @@ export const minikitConfig = {
     webhookUrl: `${ROOT_URL}/api/webhook`,
     primaryCategory: "social",
     tags: ["productivity", "self-improvement", "tracking", "accomplishments"],
-    heroImageUrl: `${ROOT_URL}/blue-hero.png`, 
+    heroImageUrl: `${ROOT_URL}/hero.jpg`, 
     tagline: "Celebrate every win, no matter how small",
     ogTitle: "What Have You Done - Track Your Accomplishments",
     ogDescription: "A beautiful app to track your daily accomplishments and celebrate your wins",
-    ogImageUrl: `${ROOT_URL}/blue-hero.png`,
+    ogImageUrl: `${ROOT_URL}/hero.jpg`,
   },
 } as const;
 
